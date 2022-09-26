@@ -1,7 +1,8 @@
 # PhotoEditor
 A little terminal application to do some operations with a photo format files
 
-ld,load - Loading the new file of jpg format and associate with the image name;
+ld,load - Loading the new file of jpg format and associate with the image name
+
 Format: ld,load <name of the image> <path to a file of jpg format>. Example: ld img1 /Users/user1/Pictures/nat.jpg
 
 rs,resize - Resize the image and save result in a new image
