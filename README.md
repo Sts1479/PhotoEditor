@@ -5,7 +5,7 @@ ld,load - Loading the new file of jpg format and associate with the image name
 
 Format: ld,load <name of the image> <path to a file of jpg format>. Example: ld img1 /Users/user1/Pictures/nat.jpg
 
-rs,resize - Resize the image and save result in a new image
+rs,resize - Resize the image and save result in a new image /n
 Format: rs,resize <name of the image_old> <name of the image_new> <height> <width>. Example: rs img1 img2 800 800"
 
 blur - Blur the image and save result in a new image" << endl;
